@@ -1,3 +1,3 @@
 # Facharbeit starter
 
-Starter LaTex template for me writing my papers in school.
+Meine LaTeX Vorlage für Facharbeiten im Gymnasium
